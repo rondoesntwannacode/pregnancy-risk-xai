@@ -6,5 +6,6 @@ xgboost
 shap
 lime
 matplotlib
-seaborn
 plotly
+seaborn
+joblib
